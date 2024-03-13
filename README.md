@@ -1,4 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftoughcookieseohui&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-Hi there 😄
-I'm currently Job Seeker & Undergraduate.
-I'm interested in **Data Engineering**, **Data Analysis**.
+
+
+Hi there 😄  <br/>
+I'm currently Job Seeker & Undergraduate.  <br/>
+I'm interested in **Data Engineering**, **Data Analysis**.  <br/>
