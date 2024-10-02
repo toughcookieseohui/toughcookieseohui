@@ -2,5 +2,5 @@
 
 
 Hi there 😄  <br/>
-I'm currently Job Seeker & Undergraduate.  <br/>
+I'm currently Job Seeker & Graduate.  <br/>
 I'm interested in **Data Engineering**, **Data Analysis**.  <br/>
