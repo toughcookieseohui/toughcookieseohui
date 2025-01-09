@@ -3,7 +3,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I'm a self-taught data engineer. I'm currently looking for new opportunities in data engineering field and learning more about Apache frameworks. Feel free to take a look at my projects!
+I'm a self-taught data engineer. I'm currently looking for new opportunities in data engineering field and learning more about Hadoop frameworks. Feel free to take a look at my projects!
 
 ---
 
