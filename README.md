@@ -10,7 +10,7 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 ### 💡 Skills
 - **Cloud Platform** : AWS
 - **Programming** : Python, Java, PySpark, SQL
-- **Databases** : MySQL, PostgreSQL
+- **Databases** : MySQL, PostgreSQL, MongoDB
 - **Big Data Tools** : Spark, Kafka
 - **Version Control** : Git, GitHub
 - **Visualisation Tools**: Tableau
