@@ -21,7 +21,7 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 - [AWS Certified Solution Architect - Associate]()
 - [AWS Certified Data Engineer - Assiciate]()
 - [Databricks Certified Assiciate Developer - Apache Spark3]()
-- []()
+- [빅데이터분석기사]()
   
 ---
 
