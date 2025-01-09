@@ -14,6 +14,7 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 - **Big Data Tools** : Spark, Kafka
 - **Version Control** : Git, GitHub
 - **Visualisation Tools**: Tableau
+- Containerization & Orchestration Tools: Docker, Kubernetes
   
 ---
 
