@@ -20,7 +20,6 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 ### 📝 My Certification
 - [Databricks Certified Associate Developer for Apache Spark 3.0 - Python]()
 - [AWS Certified Solution Architect - Associate]()
-- [AWS Certified Data Engineer - Assiciate]()
 - [빅데이터분석기사]()
 ---
 
